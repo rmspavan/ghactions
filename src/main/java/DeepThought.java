@@ -5,13 +5,7 @@ public class DeepThought {
 
     }
     
-        @Test
-        @DisplayName("Test the answer to everything")
-        void testAnswerToAll(){
-            DeepThought superComputer = new DeepThought();
-            assertEquals( 42 , superComputer.answer_to_the_ultimate_question_of_life_the_universe_and_everything());
-    }
-    
+  
     public int answer_to_the_ultimate_question_of_life_the_universe_and_everything(){
         System.out.println("You have asked the answer to the Ultimate Question of Life, the Universe, and Everything");
         System.out.println("I need to think a while about that one, come back again in 7.5 million years...");
