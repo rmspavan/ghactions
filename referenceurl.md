@@ -16,3 +16,9 @@
 
 6. GitHub Actions — Makes ‘One Click To Deploy’ Feasible For ML CI/CD Pipeline
         https://towardsdatascience.com/github-actions-makes-one-click-to-deploy-feasible-for-ml-ci-cd-pipeline-61470ed3edbc
+
+7. Continuous Deployment on Shared Hosting with GitHub Actions:
+        https://dev.to/madalitsonyemba/continuous-deployment-on-shared-hosting-with-github-actions-5agi
+
+https://github.com/actions/virtual-environments.git
+
